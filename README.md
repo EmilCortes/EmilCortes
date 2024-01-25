@@ -5,8 +5,8 @@
 
 - 📫 How to reach me **emilio_cortes88@hotmail.com**
 
-- ⚡ Fun fact **I'm a little bit geek**
-</p>
+- ⚡ Fun fact **I'm a little bit geek**</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
