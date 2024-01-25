@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emilio Cortés</h1>
 <h3 align="center">A frontend developer from Barcelona, Spain</h3>
 <p align="center">
-- 🌱 I’m currently learning **all secrets about Angular**
-
-- 📫 How to reach me **emilio_cortes88@hotmail.com**
-
+- 🌱 I’m currently learning **all secrets about Angular**</p>
+<p align="center">
+- 📫 How to reach me **emilio_cortes88@hotmail.com**</p>
+<p align="center">
 - ⚡ Fun fact **I'm a little bit geek**</p>
 
 
